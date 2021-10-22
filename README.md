@@ -1,9 +1,10 @@
 # Subscriber
 
 
--We have a database migration for website, website_post and website subscriber
--We have added seeder for default website
+-I have a database migration for website, website_post and website subscriber.
 
--we have created API for post create as well as user website subscriber
--Created cron when any post created for website we are sending email to subscribed user via cron 
-please check controller, Cron , Migration, seeds
+-I have also implemented model with softdelete.
+-I have added seeder for default website table.
+-I have created API for post create as well as user website subscriber.
+-Created cron when any post created for website and we are sending email to subscribed user via cron .
+-Please check controller, Cron , Migration, seeds.
